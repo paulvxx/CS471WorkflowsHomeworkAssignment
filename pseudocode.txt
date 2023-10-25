@@ -1,5 +1,0 @@
-Some pseudocode:
-
-Sum = 0;  For i = 1... 10, Sum = Sum + i; Print the value of Sum
-
-The value of Sum should be 55.

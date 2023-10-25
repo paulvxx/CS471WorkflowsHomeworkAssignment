@@ -1,1 +1,3 @@
-Creating a New file.
+Some pseudocode:
+
+Sum = 0;  For i = 1... 10, Print the value of i

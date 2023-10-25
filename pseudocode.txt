@@ -1,1 +1,4 @@
-This is a new text file.
+Some pseudocode:
+
+For i = 1... 10, Print the value of i
+
